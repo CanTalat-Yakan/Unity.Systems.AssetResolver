@@ -1,12 +1,12 @@
 {
   "name": "com.unityessentials.systems.assetresolver",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "Systems AssetResolver",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
   "dependencies": {
-    "com.unity.addressables": "2.8.0"
+    "com.unity.addressables": "~2.8.0"
   },
   "keywords": [],
   "author": {
